@@ -1,0 +1,223 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+Body
+{
+	background-color: white;
+	font: arial;
+
+}
+
+.menu-bar
+{
+	background: black;
+	text-align: center;
+}
+.menu-bar ul
+{
+	display: inline-flex;
+	list-style: none;
+	color: white;
+}
+.menu-bar ul li
+{
+	width: 300px;
+	margin: 10px;
+	padding: 15px;
+	font-family: arial;
+	font-weight: 1000;
+}
+
+.menu-bar ul li a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.bigheader
+{
+	color: white;
+	font: arial;
+}
+
+.FirstHeader
+{
+	font-family: arial;
+	color: white;
+	font-weight: 1200;
+	font-size: 100px;
+}
+
+.wrapper
+{
+	margin: 0 auto;
+	width: 1000px;
+}
+
+.img-Trump1
+{
+	width: 100%;
+	height: 400px;
+	background-image: url(Trump.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-Biden1
+{
+	width: 100%;
+	height: 400px;
+	background-image: url(Biden.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.RegText,ol,ul 
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.FirstHeaderBlack
+{
+	font-family: arial;
+	color: black;
+	font-weight: 1200;
+	font-size: 100px;
+}
+
+.RegTextBig
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font-size: 40px;
+}
+
+.Header2
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.credit
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font size: 25;
+}
+
+.BidenText
+{
+	font-family: arial;
+	color: black;
+	font-weight: 1200;
+	font-size: 30px;
+}
+
+table
+{
+	width: 400px
+}
+
+th {
+	text-align: center;
+}
+
+td {
+	text-align: center;
+}
+
+table, th, td
+{
+	border: 1px solid #000
+
+}
+
+table.center {
+	margin-right: auto;
+	margin-left: auto;
+}
+.btnLink{
+	padding: 0.1em 0.1em;
+	background-color: #000000;
+	color: #ffffff
+border-radius: 300px;
+	font-family: arial;
+	font-size: 30px;
+	text-decoration: none;
+}
+
+
+.img-FTC1
+{
+	width: 100%;
+	height: 400px;
+	background-size: cover;
+	background-image: url(ftcroboticsone.jpg); 
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.BigText
+{
+	font-family: arial;
+	color: black;
+	font-weight: 1200;
+	font-size: 50px;
+}
+
+.RegTextBig
+{
+	font-family: arial;
+	color: black;
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.HomeBackground
+{
+	width: ;
+	height: 400px;
+	background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fgiozaga%2Fart%2FSince-Style-4K-Texture-Grey-background-486962437&psig=AOvVaw2MDZYrPDFPPB8zChuj580c&ust=1599192803465000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiQ7dKPzOsCFQAAAAAdAAAAABAM);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.img-outreach1
+{
+	width: 100%;
+	height: 400px;
+	background-size: cover;
+	background-image: url(outreach.png); 
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
